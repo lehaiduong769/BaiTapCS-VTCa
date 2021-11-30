@@ -1,0 +1,14 @@
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.csproj.AssemblyReference.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.AssemblyInfoInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.AssemblyInfo.cs
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.csproj.CoreCompileInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\bin\Debug\netcoreapp3.1\Lab5_BT2.exe
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\bin\Debug\netcoreapp3.1\Lab5_BT2.deps.json
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\bin\Debug\netcoreapp3.1\Lab5_BT2.runtimeconfig.json
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\bin\Debug\netcoreapp3.1\Lab5_BT2.runtimeconfig.dev.json
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\bin\Debug\netcoreapp3.1\Lab5_BT2.dll
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\bin\Debug\netcoreapp3.1\Lab5_BT2.pdb
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.dll
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.pdb
+D:\BT_Code_C#\LeHaiDuong\Tuan04\Lab5_BT2\obj\Debug\netcoreapp3.1\Lab5_BT2.genruntimeconfig.cache
