@@ -1,0 +1,5 @@
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6_BT1.csproj.AssemblyReference.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6_BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6_BT1.AssemblyInfoInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6_BT1.AssemblyInfo.cs
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6_BT1.csproj.CoreCompileInputs.cache

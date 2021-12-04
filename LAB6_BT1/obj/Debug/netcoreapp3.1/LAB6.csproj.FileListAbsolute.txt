@@ -1,0 +1,13 @@
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.AssemblyInfoInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.AssemblyInfo.cs
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.csproj.CoreCompileInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\bin\Debug\netcoreapp3.1\LAB6.exe
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\bin\Debug\netcoreapp3.1\LAB6.deps.json
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\bin\Debug\netcoreapp3.1\LAB6.runtimeconfig.json
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\bin\Debug\netcoreapp3.1\LAB6.runtimeconfig.dev.json
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\bin\Debug\netcoreapp3.1\LAB6.dll
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\bin\Debug\netcoreapp3.1\LAB6.pdb
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.dll
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.pdb
+D:\BT_Code_C#\LeHaiDuong\Tuan 05\LAB6_BT1\obj\Debug\netcoreapp3.1\LAB6.genruntimeconfig.cache
