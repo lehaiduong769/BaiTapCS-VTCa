@@ -1,0 +1,14 @@
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\bin\Debug\netcoreapp3.1\LAB7_BT1.exe
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\bin\Debug\netcoreapp3.1\LAB7_BT1.deps.json
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\bin\Debug\netcoreapp3.1\LAB7_BT1.runtimeconfig.json
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\bin\Debug\netcoreapp3.1\LAB7_BT1.runtimeconfig.dev.json
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\bin\Debug\netcoreapp3.1\LAB7_BT1.dll
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\bin\Debug\netcoreapp3.1\LAB7_BT1.pdb
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.csproj.AssemblyReference.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.AssemblyInfoInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.AssemblyInfo.cs
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.csproj.CoreCompileInputs.cache
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.dll
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.pdb
+D:\BT_Code_C#\LeHaiDuong\Tuan06\LAB7_BT1\obj\Debug\netcoreapp3.1\LAB7_BT1.genruntimeconfig.cache
