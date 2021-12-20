@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study Docs\\LeHaiDuong\\Tuan01\\BT3\\BT3.csproj": {}
+    "D:\\BT_Code_C#\\LeHaiDuong\\LAB8\\BT3\\BT3.csproj": {}
   },
   "projects": {
-    "D:\\Study Docs\\LeHaiDuong\\Tuan01\\BT3\\BT3.csproj": {
+    "D:\\BT_Code_C#\\LeHaiDuong\\LAB8\\BT3\\BT3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study Docs\\LeHaiDuong\\Tuan01\\BT3\\BT3.csproj",
+        "projectUniqueName": "D:\\BT_Code_C#\\LeHaiDuong\\LAB8\\BT3\\BT3.csproj",
         "projectName": "BT3",
-        "projectPath": "D:\\Study Docs\\LeHaiDuong\\Tuan01\\BT3\\BT3.csproj",
+        "projectPath": "D:\\BT_Code_C#\\LeHaiDuong\\LAB8\\BT3\\BT3.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Study Docs\\LeHaiDuong\\Tuan01\\BT3\\obj\\",
+        "outputPath": "D:\\BT_Code_C#\\LeHaiDuong\\LAB8\\BT3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
