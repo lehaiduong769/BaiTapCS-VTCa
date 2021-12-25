@@ -8,57 +8,57 @@ namespace BT2_Stack
         static void Main(string[] args)
         {
             int choice, n;
-            Stack stack = new Stack();
-            Console.WriteLine(" Nhap so phan tu muon khoi tao trong Stack: ");
+            Queue queue = new Queue();
+            Console.WriteLine(" Nhap so phan tu muon khoi tao trong Queue: ");
             n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
-                stack.Push(new Random().Next(0, 10));
+                queue.Enqueue(new Random().Next(0, 10));
             }
             do
             {
-                Console.WriteLine("Demo cac thao tac tren Stack so nguyen C#");
+                Console.WriteLine("Demo cac thao tac trong Queue so nguyen C#");
                 Console.WriteLine("=========================================");
-                Console.WriteLine("1.   Khoi tao Stack");
-                Console.WriteLine("2.   Them mot phan tu vao Stack");
-                Console.WriteLine("3.   Lay phan tu dau ra khoi Stack");
-                Console.WriteLine("4.   Xem phan tu dau cua Stack");
-                Console.WriteLine("5.   Duyet Stack");
+                Console.WriteLine("1.   Khoi tao Queue");
+                Console.WriteLine("2.   Them mot phan tu vao Queue ");
+                Console.WriteLine("3.   Lay phan tu dau ra khoi Queue");
+                Console.WriteLine("4.   Xem phan tu dau cua Queue");
+                Console.WriteLine("5.   Duyet Queue");
                 Console.WriteLine("0.   Thoat chuong trinh");
                 Console.Write("    NHAP LUA  CHON CUA BAN VAO:");
                 choice = int.Parse(Console.ReadLine());
                 switch (choice)
                 {
                     case 1:
-                        Console.WriteLine("Ds cac phan tu duoc khoi tao trong STack: ");
-                        foreach (int num in stack)
+                        Console.WriteLine("Ds cac phan tu duoc khoi tao trong Queue: ");
+                        foreach (int num in queue)
                         {
                             Console.Write(num + " ");
                         }
                         Console.WriteLine(); break;
 
                     case 2:
-                        Console.WriteLine("Nhap vao gia tri phan tu muon them vao Stack: ");
+                        Console.WriteLine("Nhap vao gia tri phan tu muon them vao Queue: ");
                         int m = int.Parse(Console.ReadLine());
-                        stack.Push(m);
-                        foreach(int num in stack)
+                        queue.Enqueue(m);
+                        foreach (int num in queue)
                         {
-                            Console.Write(num + " "); 
+                            Console.Write(num + " ");
                         }
                         Console.WriteLine(); break;
                     case 3:
-                        Console.WriteLine("Phan tu dau duoc lay ra khoi Stack la: ");
-                        Console.WriteLine(" " + stack.Pop());
+                        Console.WriteLine("Phan tu dau duoc lay ra khoi Queue la: ");
+                        Console.WriteLine(" " + queue.Dequeue());
                         Console.WriteLine(); break;
                     case 4:
-                        Console.WriteLine($"Xem phan tu dau cua Stack la: {stack.Peek()}");
+                        Console.WriteLine($"Xem phan tu dau cua Queue la: {queue.Peek()}");
                         Console.WriteLine(); break;
                     case 5:
-                        Console.Write("So phan tu con lai trong Stack la: {0}",stack.Count);
+                        Console.Write("So phan tu con lai trong Queue la: {0}",queue.Count);
                         Console.WriteLine(); break;
                     case 0: break;
                     default:
-                        Console.WriteLine(" Vui long nhap lai!");break;
+                        Console.WriteLine(" Vui long nhap lai!"); break;
 
                 }
             }
