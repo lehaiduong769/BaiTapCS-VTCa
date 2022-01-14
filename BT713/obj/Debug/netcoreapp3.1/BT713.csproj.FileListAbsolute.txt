@@ -1,0 +1,14 @@
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\bin\Debug\netcoreapp3.1\BT713.exe
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\bin\Debug\netcoreapp3.1\BT713.deps.json
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\bin\Debug\netcoreapp3.1\BT713.runtimeconfig.json
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\bin\Debug\netcoreapp3.1\BT713.runtimeconfig.dev.json
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\bin\Debug\netcoreapp3.1\BT713.dll
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\bin\Debug\netcoreapp3.1\BT713.pdb
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.csproj.AssemblyReference.cache
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.AssemblyInfoInputs.cache
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.AssemblyInfo.cs
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.csproj.CoreCompileInputs.cache
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.dll
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.pdb
+D:\VTC_Documents\BT_Code_C#\1000bt\BT713\obj\Debug\netcoreapp3.1\BT713.genruntimeconfig.cache
